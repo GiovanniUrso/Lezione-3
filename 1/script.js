@@ -8,6 +8,6 @@ if(isNaN(mioPrompt)){// Controllo se il valore inserito è un numero
 }else{
 const b = document.getElementById('container')// Prendo il container
 
-b.innerHTML = mioPrompt.toString()// CI stampo dentro il valore inserito nel prompt ATTENZIONE! innerHTML vuole in ingresso una stringa quindi forzo la conversione
+b.innerHTML = mioPrompt.toString()// Ci stampo dentro il valore inserito nel prompt ATTENZIONE! innerHTML vuole in ingresso una stringa quindi forzo la conversione
 }
 
