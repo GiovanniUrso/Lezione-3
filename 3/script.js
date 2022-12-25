@@ -18,4 +18,4 @@ setTimeout(()=>{
     const crdiv = document.createElement('div')
     container.appendChild(crdiv)
     crdiv.innerHTML = 'Ciao'
-    },5000)
+    },2000)
