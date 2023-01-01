@@ -2,6 +2,8 @@
 
 const miaData = new Date(); // "Creo una istanza di Date, l'oggetto date inizia a contare dall'1 gennaio 1970"
 
+
+
 const annadata = miaData.getFullYear() // Usiamo i metodi dell'oggetto Date per modificare o estrarre valori da una data
 
 setInterval(()=>{
